@@ -1,6 +1,6 @@
 <img 
   width="100%"
-  src="./assets/logo-1.svg" 
+  src="./assets/logo.svg" 
   alt="First Logo" 
 />
 
