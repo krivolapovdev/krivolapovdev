@@ -21,6 +21,6 @@
 
 <img 
   width="100%"
-  src="./assets/anim.gif" 
+  src="./assets/logo.jpg" 
   alt="First Logo" 
 />
