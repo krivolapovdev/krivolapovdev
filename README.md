@@ -21,6 +21,6 @@
 
 <img 
   width="100%"
-  src="./assets/logo.png" 
+  src="./assets/logo.webp" 
   alt="Second Logo" 
 />
