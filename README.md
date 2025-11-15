@@ -22,5 +22,5 @@
 <img 
   width="100%"
   src="./assets/logo.jpg" 
-  alt="First Logo" 
+  alt="Second Logo" 
 />
